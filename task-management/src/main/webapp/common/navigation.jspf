@@ -1,6 +1,6 @@
 <nav role="navigation" class="navbar navbar-default">
 	<div class="">
-		<a href="http://www.pyramid-tech.com" class="navbar-brand">Task-management App</a>
+		<a href="#" class="navbar-brand">Task-management App</a>
 	</div>
 	<form id="logoutForm" method="POST" action="${contextPath}/logout">
 		<input type="hidden" name="${_csrf.parameterName}"
